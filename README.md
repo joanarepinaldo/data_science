@@ -10,7 +10,7 @@
 </a>
 
 <sub>*Mechanical Engineer/Data Scientist</sub>
-- 👨‍🎓 Master's in System Dynamics
+- 🎓 Master's in System Dynamics
 - 🌱 I’m currently learning Data Science
 - 💼 I’m pursuing a Bachelor's degree in System Analysis and Development
 - 👀 See my [Curriculum Vitae](https://joana-repinaldo.vercel.app/) to get more info.
