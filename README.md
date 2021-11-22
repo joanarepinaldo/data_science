@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" >
+  <img src="logo.png" >
 </p>
 
 <h1> Joana Repinaldo</h1>
