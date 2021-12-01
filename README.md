@@ -38,4 +38,4 @@
 - **Robust Control applied to a Beam of Composite Material using Electromagnetic Actuators:** https://bit.ly/3dcBzeW
 - **Neuro-Fuzzy modal control of smart laminated composite structures modeled via mixed theory and high-order shear deformation theory:** https://bit.ly/31iLP2M
 - **Neuro-Fuzzy Control Applied on a 2DOF Structure Using Electromagnetic Actuators:** https://bit.ly/3De4g5u
-- **+** - https://bit.ly/32VUoBf
+- **+:** https://bit.ly/32VUoBf
