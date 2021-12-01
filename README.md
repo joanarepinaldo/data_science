@@ -31,5 +31,5 @@
 ## Projects:
 
 
-- **Análise Airbnb:** bit.ly/31op6Cd
+- **Análise Airbnb:** https://bit.ly/31op6Cd
 
